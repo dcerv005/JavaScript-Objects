@@ -1,0 +1,1 @@
+Assignments: JavaScript Objects. In this assignment we looked into making constructor objects. 
